@@ -13,7 +13,7 @@
 【📝 クレジット表記】
 - 表記は任意ですが、可能であれば以下のようにご記載ください：
 
-  キャラクター素材：masuken（https://github.com/masuken/character-motion-pack）
+  キャラクター素材：masuken（https://github.com/masuken/game-assetes/motions.png）
 
 【📩 お問い合わせ】
 ご不明点や別用途での利用をご希望の場合は、GitHubのIssueまたは [your.email@example.com] までご連絡ください。
